@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rd4lv4o2r-go-repository
+spec:
+  url: https://github.com/sjm-rhtap/rd4lv4o2r-go
